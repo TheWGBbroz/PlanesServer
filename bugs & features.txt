@@ -1,0 +1,21 @@
+Kogels uit geweren TUSSEN engines
+
+Add skin chooser
+
+
+Add party code
+
+
+Add minimap
+
+Explosie als bullet tegen plane aan komt
+
+Explosie als je dood gaat
+
+Explosie & allerbei dood als je tegen een andere plane aan gaat
+
+Splash text als je iemand dood
+
+Meerdere explosies als het laggt
+
+Plane AI's nicknames

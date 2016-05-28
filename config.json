@@ -1,0 +1,23 @@
+{
+  "port": 3000,
+  "game_size": 50000,
+  "player_range": 5000,
+  "skin_amount": 3,
+  "enable_ai": true,
+  "ai_amount": 80,
+  "ai_range": 1000,
+  "bullet_lifelength": 4,
+  "spawn_offset": 8000,
+  "upgrades": {
+    "hp_per_sec": 0.5,
+    "hp_max_add": 25,
+    "bullet_damage": 0.25,
+    "bullets_per_round": 50,
+    "costs": {
+      "hp_per_sec": 30,
+      "hp_max_add": 40,
+      "bullet_damage": 40,
+      "bullets_per_round": 30
+    }
+  }
+}
