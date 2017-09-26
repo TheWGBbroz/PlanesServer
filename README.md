@@ -1,4 +1,4 @@
 # PlanesServer
 MMO Planes Server
 
-Sadly I lost the client code for this..
+Code for the client: https://github.com/TheWGBbroz/PlanesClient
